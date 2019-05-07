@@ -4,7 +4,8 @@
   "description": "Resume of Oliver Carlos via NPM",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "resume": "npm run start"
   },
   "repository": {
     "type": "git",
