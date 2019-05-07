@@ -1,0 +1,30 @@
+{
+    "Full Name": ["My full name is Oliver Pascual Carlos"],
+    "Birth Date": ["I was born in April 21, 1996 at San Juan City Metro Manila Philippines."],
+    "Citizenship": ["I am a pure Filipino"],
+    "Education" : [
+        "Elementary - Pinaglabanan Elementary School batch 2009",
+        "High School - San Juan National High School batch 2013",
+        "College - Bachelor of Science in Information Technology - Polytechnic University of Philippines Manila"
+    ],
+
+    "Technology Stack": ["Laravel PHP Framework", "Vue.js", "Node.js", "AdonisJS", "TailwindCSS"],
+    "Other Skills": [
+        "Server Management in Ubuntu OS",
+        "Project Management",
+        "jQuery",
+        "Other CSS Frameworks"
+    ],
+    "Past Experiences" : [
+        "2 years of being a full stack web developer @ Jump Digital Inc. Philippines",
+        "3 months Software Engineer in Oracle HCM @ Accenture PH"
+    ],
+    "Contact" : [
+        "E-mail Address: dev.olivercarlos@gmail.com",
+        "Contact Number: +639169186105"
+    ],
+    "Hobbies" : [
+        "Online Games.",
+        "Making useless packages like this one."
+    ]
+}
