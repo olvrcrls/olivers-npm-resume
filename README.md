@@ -8,8 +8,13 @@
     - After all that, type ```npm run start``` then browse.
 
 ## HOW TO INSTALL VIA NPM
-    ```bash
-        npm install olivers-npm-resume
+    - Run the commands in order:
+
+    ```
+        npm install olivers-npm-resume -g
+    ```
+    ```
+        npm run resume
     ```
 
 ## License
