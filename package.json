@@ -24,5 +24,8 @@
   "dependencies": {
     "chalk": "^2.4.2",
     "inquirer": "^6.3.1"
+  },
+  "bin": {
+    "olivers-npm-resume": "./index.js"
   }
 }
